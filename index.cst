@@ -1,0 +1,7 @@
+Activate ConStop 'Daniel4-Scratch ap1';
+Free Server Room =>
+  Ac 3 2 9 'ok'
+  Status
+  Report Status
+<
+Launch '/CST.dpla'
